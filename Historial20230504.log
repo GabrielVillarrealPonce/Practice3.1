@@ -1,0 +1,9 @@
+2023-05-04 23:36:31.636 -04:00 [INF] Path patients file: ..\Patients.log
+2023-05-04 23:36:31.668 -04:00 [INF] Path log file: ..\Historial.log
+2023-05-04 23:36:31.768 -04:00 [INF] Ejecutando en el ambiente de Development
+2023-05-04 23:36:31.871 -04:00 [INF] Now listening on: https://localhost:7166
+2023-05-04 23:36:31.876 -04:00 [INF] Now listening on: http://localhost:5131
+2023-05-04 23:36:31.879 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-04 23:36:31.879 -04:00 [INF] Hosting environment: Development
+2023-05-04 23:36:31.880 -04:00 [INF] Content root path: D:\archivos2\Certi1\upbThree\PracticeThree\
+2023-05-04 23:36:39.870 -04:00 [INF] Application is shutting down...
